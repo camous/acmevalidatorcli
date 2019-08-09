@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "acmevalidatorcli": {
+      "commandName": "Project",
+      "commandLineArgs": "-i eyJmaXJzdG5hbWUiIDogImZhYmllbiJ9 -r eyJmaXJzdG5hbWUiIDogWyJtYXRoaWV1IiwiYmFzaWxlIiBdfQ=="
+    }
+  }
+}
